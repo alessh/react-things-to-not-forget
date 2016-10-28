@@ -27,6 +27,7 @@
 * [React Sortable Tree](https://github.com/fritz-c/react-sortable-tree)
 * [React Object Inspector](https://github.com/xyc/react-object-inspector)
 * [JSON Inspector](https://github.com/Lapple/react-json-inspector)
+* [React Native Fold View](https://github.com/jmurzy/react-native-foldview)
 
 ## Components
 

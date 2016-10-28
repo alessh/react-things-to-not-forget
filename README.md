@@ -15,6 +15,7 @@
 * [React boilerplate + Structor](https://github.com/ipselon/react-boilerplate)
 * [Freese](https://github.com/arqex/freezer)
 * [React Auth](https://github.com/lynndylanhurley/redux-auth)
+* [minimalistic framework for server-rendered React applications](https://github.com/zeit/next.js)
 
 ## Cool UI Frameworks
 

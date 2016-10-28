@@ -9,4 +9,5 @@
 * [React boilerplate + Structor](https://github.com/ipselon/react-boilerplate)
 
 ## Other things
-...
+
+* [JS Coach](https://js.coach/react?sort=popular)

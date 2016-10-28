@@ -1,4 +1,4 @@
-# react-things-to-dont-forget
+# React things to not forget
 
 ##Videos
 

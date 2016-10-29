@@ -35,7 +35,7 @@
 
 ## React Themes
 
-* [Free React.js themes](http://startreact.com/?utm_source=medium&utm_medium=blogbyshweta)
+* [Free React.js themes](http://ani-react.strapui.com/?utm_source=startreact&utm_medium=startreact&utm_campaign=StrapUI#/)
 
 ## Other things
 

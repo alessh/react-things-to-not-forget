@@ -41,3 +41,7 @@
 ## Other things
 
 * [Awesome React](https://github.com/enaqx/awesome-react/)
+
+## Cool Articles
+
+* [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ien9b5921)

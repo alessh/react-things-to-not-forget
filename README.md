@@ -28,6 +28,7 @@
 * [React Object Inspector](https://github.com/xyc/react-object-inspector)
 * [JSON Inspector](https://github.com/Lapple/react-json-inspector)
 * [React Native Fold View](https://github.com/jmurzy/react-native-foldview)
+* [Searchkit - Elasticsearch React Components](https://github.com/searchkit/searchkit)
 
 ## Components
 

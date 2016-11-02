@@ -16,6 +16,7 @@
 * [Freese](https://github.com/arqex/freezer)
 * [React Auth](https://github.com/lynndylanhurley/redux-auth)
 * [minimalistic framework for server-rendered React applications](https://github.com/zeit/next.js)
+* [Gatsby - A React.js static site generator](https://github.com/gatsbyjs/gatsby)
 
 ## Cool UI Frameworks
 

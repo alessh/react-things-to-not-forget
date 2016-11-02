@@ -46,6 +46,7 @@
 ## Cool Articles
 
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ien9b5921)
+* [A Study Plan To Cure JavaScript Fatigue](https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.3a0x2rfqt)
 * [React desde o rascunho](https://medium.com/tableless/hello-world-com-react-desde-o-rascunho-7629bd801d3e#.xjeq6ypcq)
 
 ## Sites

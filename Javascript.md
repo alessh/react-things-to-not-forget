@@ -1,8 +1,9 @@
 #Javascript things to not forget
 
-## Programming Language
+## Promisses
 
-* [Promisses](https://medium.freecodecamp.com/let-there-be-promise-and-there-was-then-e2fd94a0b2f9#.1lvpvxg3s)
+* [Make your life easier with JavaScript promises](https://medium.freecodecamp.com/let-there-be-promise-and-there-was-then-e2fd94a0b2f9#.1lvpvxg3s)
+* [Bluebird](http://bluebirdjs.com/docs/getting-started.html)
 
 ## ES6
 

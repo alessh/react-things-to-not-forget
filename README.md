@@ -52,3 +52,7 @@
 ## Sites
 
 * [This week in React](https://thisweekinreact.com)
+
+## React Boilerplate Studies
+
+* [Code Splitting with React-Router and Webpack 2](http://moduscreate.com/code-splitting-for-react-router-with-es6-imports/)

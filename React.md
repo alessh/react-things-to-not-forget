@@ -34,6 +34,7 @@
 ## Components
 
 * [JS Coach](https://js.coach/react?sort=popular)
+* [React Components](http://devarchy.com/react-components)
 
 ## React Themes
 
